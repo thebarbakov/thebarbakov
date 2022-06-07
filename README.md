@@ -2,7 +2,7 @@ About me
 ===========================
 
 - 👋 Hi, I’m **Yaroslav Barbakov**
-- 👀 I’m interested in Web development (React.JS, Node.JS, Express, SCSS)
+- 👀 I’m interested in Web development (React.JS, Node.JS, Express, SCSS, MongoDB)
 - 🌱 I’m currently learning (Node.JS, Express)
 - 📫 You can contact with me:
 
